@@ -2,16 +2,12 @@
 This project explores a comprehensive walmart sales dataset to uncover patterns, trends, and business insights using Python. It demonstrates practical data analysis techniques including cleaning, transformation, visualization, and interpretation.
 
 📌 Objectives
-
-Explore dataset structure and dimensions
-
-Clean and preprocess data (nulls, duplicates, formatting)
-
-Perform time-based and product-based analysis
-
-Visualize trends using Matplotlib and Seaborn
-
-Derive actionable insights for business decisions
+------------------------------------------------------------------------------------------------------------------------------------------
+* Explore dataset structure and dimensions
+* Clean and preprocess data (nulls, duplicates, formatting)
+* Perform time-based and product-based analysis
+* Visualize trends using Matplotlib and Seaborn
+* Derive actionable insights for business decisions
 
 📊 Tools & Libraries
 Python (Pandas, NumPy)
