@@ -1,4 +1,5 @@
-# Walmart-Sales-Analysis
+# Walmart Sales Data Analysis
+-----------------------------------------------------------------------------------------------------------------------------------------
 This project explores a comprehensive walmart sales dataset to uncover patterns, trends, and business insights using Python. It demonstrates practical data analysis techniques including cleaning, transformation, visualization, and interpretation.
 
 📌 Objectives
@@ -10,23 +11,24 @@ This project explores a comprehensive walmart sales dataset to uncover patterns,
 * Derive actionable insights for business decisions
 
 📊 Tools & Libraries
-Python (Pandas, NumPy)
-Matplotlib, Seaborn
-Jupyter Notebook
+------------------------------------------------------------------------------------------------------------------------------------------
+* Python (Pandas, NumPy)
+* Matplotlib and Seaborn
+* Jupyter Notebook
 
 📁 Dataset Overview
-6435 records of walmart sales
+------------------------------------------------------------------------------------------------------------------------------------------
 Columns include: Store, Date, Weekly_Sales, Weekly_Sales, Temperature, Fuel_Price, CPI, Unemployment.
 
 🔍 Key Insights
+------------------------------------------------------------------------------------------------------------------------------------------
 Peak Sales Store: 20
-Most Consistent Store: 37
+Most Consistent Revenue Generated Store: 37
 
 📈 Visualizations
+------------------------------------------------------------------------------------------------------------------------------------------
 Highest Average Weekly Sales by Store
 Weekly Sales Trend Over Time
 Top 5 Weeks with Highest Sales
 Distribution of Weekly Sales
-Revenue breakdown by day and category
-Top 10 and least sold pizzas
-Size preference and revenue comparison
+
