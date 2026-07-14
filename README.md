@@ -27,8 +27,9 @@ Most Consistent Revenue Generated Store: 37
 
 📈 Visualizations
 ------------------------------------------------------------------------------------------------------------------------------------------
-Highest Average Weekly Sales by Store
-Weekly Sales Trend Over Time
-Top 5 Weeks with Highest Sales
-Distribution of Weekly Sales
+
+* Highest Average Weekly Sales by Store
+* Weekly Sales Trend Over Time
+* Top 5 Weeks with Highest Sales
+* Distribution of Weekly Sales
 
